@@ -52,9 +52,9 @@
 
 * [`WhatsApp Admin `](https://wa.me/6287811078485)
 
-* [`anto-api `](hardianto-gans-api.herokuapp.com/)
-
-* [`Website BOT`](https://hardianto-gans-api.herokuapp.com/)
+* [`anto-api `](https://hardianto-chan.herokuapp.com)
+                                                  
+* [`Website BOT`](https://hardianto-chan.herokuapp.com)
 
 <!--
 **hardiantojek93/hardiantojek93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
