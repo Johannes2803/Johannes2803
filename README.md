@@ -9,7 +9,9 @@
 
 - 👀 I'm currently focusing on **JavaScript**.
 
-- 📝 I'm currently working on [`Paimins`](https://hardianto-gans-api.herokuapp.com/) 
+- 📝 I'm currently working on [`hardianto.xyz`](https://me.hardianto.xyz/) 
+
+- 🤗 Follow New Account Github on [`@hardianto-cpu`](https://github.com/hardianto-cpu/) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
