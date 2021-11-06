@@ -1,17 +1,15 @@
 ### Hi there 👋
-<h1 align="center">そのメイキー<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Hardianto Desu!</h1>
+<h1 align="center">ヨハネス<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Johannes Desu!</h1>
 
 <p align="center">
-<img src="https://telegra.ph/file/c78dcfdff5c67e457dd66.jpg" width="100%" alt="API Giphy logo"/>
+<img src="https://i.pinimg.com/originals/94/e7/21/94e721efd82d3aba7e7da4a0bde1b036.jpg" width="100%" alt="API Giphy logo"/>
 </p>
 
 - 🌱 I’m currently learning **nothing**.
 
 - 👀 I'm currently focusing on **JavaScript**.
 
-- 📝 I'm currently working on [`hardianto.xyz`](https://me.hardianto.xyz/) 
-
-- 🤗 Follow New Account Github on [`@hardianto-cpu`](https://github.com/hardianto-cpu/) 
+- 🤗 Follow Account Github on [`@Johannes2803`](https://github.com/Johannes2803/) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -29,11 +27,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hardiantojek93"><img src="https://github-readme-stats.vercel.app/api?username=hardiantojek93&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api?username=hardiantojek93&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hardiantojek93"><img src="https://github-readme-stats.vercel.app/api/top-langs?usernamehardiantojek93&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api/top-langs?usernamehardiantojek93&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
@@ -41,22 +39,20 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardiantojek93" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johannes2803" />
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-hardiantogaming-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
+  <a href="https://youtube.com/channel/UC0hs_I8N3JntK5vO6KogavQ"><img src="https://img.shields.io/badge/YouTube-Johannes-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
  #sosial media
 
 
-* [`WhatsApp Admin `](https://wa.me/6287811078485)
-
-* [`anto-api `](https://hardianto-chan.herokuapp.com)
+* [`WhatsApp Admin `](https://wa.me/62895603352610)
                                                   
-* [`Website BOT`](https://hardianto-chan.herokuapp.com)
+* [`Rest Api`](https://api-johannes.herokuapp.com)
 
 <!--
 **hardiantojek93/hardiantojek93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
