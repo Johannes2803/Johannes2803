@@ -27,11 +27,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api?username=hardiantojek93&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api?username=Johannes2803&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api/top-langs?usernamehardiantojek93&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api/top-langs?usernameJohannes2803&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://youtube.com/channel/UC0hs_I8N3JntK5vO6KogavQ"><img src="https://img.shields.io/badge/YouTube-Johannes-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
-  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
+  <a name=Johannes&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
  #sosial media
@@ -55,7 +55,7 @@
 * [`Rest Api`](https://api-johannes.herokuapp.com)
 
 <!--
-**hardiantojek93/hardiantojek93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Johannes2803/Johannes2830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
