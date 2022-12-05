@@ -50,9 +50,9 @@
  #sosial media
 
 
-* [`WhatsApp Admin `](https://wa.me/62895603352610)
+* [`WhatsApp Admin `](https://wa.me/50370915639)
                                                   
-* [`Rest Api`](https://api-johannes.herokuapp.com)
+* [`My Web`](https://marin.my.id)
 
 <!--
 **Johannes2803/Johannes2830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
