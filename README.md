@@ -1,6 +1,6 @@
 # Hello, I'm Johannes! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
 
-<a href="https://github.com/johannes2803"><img src="https://cardivo.vercel.app/api?name=Johannes&description=Hi,%20I'm%20Johannes%20and%20I'm%20just%20a%20newbie%20programmer.%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/5ad7ba96040d0e4ba5cbe.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@johannes28_&github=johannes2803&pattern=leaf&colorPattern=%23eaeaea" /></a>
+<a href="https://github.com/johannes2803"><img src="https://cardivo.vercel.app/api?name=Johannes&description=Hi,%20I'm%20Johannes%20and%20I'm%20just%20a%20newbie%20programmer.%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/5ad7ba96040d0e4ba5cbe.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@jhnspntx&github=johannes2803&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
 - 🌱 I’m currently learning **JavaScript**.
 - 👀 I'm focusing on improving my skills in **JavaScript**.
@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
