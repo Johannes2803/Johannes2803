@@ -1,13 +1,12 @@
-## Hello Im Johannes <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
-<a href="https://github.com/johannes2803"><img src="https://cardivo.vercel.app/api?name=johannes&description=Hi,%20i%27m%20johannes%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/5ad7ba96040d0e4ba5cbe.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@johannes28_&github=johannes2803&pattern=leaf&colorPattern=%23eaeaea" /><a>
-</p>
-  
-- 🌱 I’m currently learning **nothing**.
+# Hello, I'm Johannes! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
 
-- 👀 I'm currently focusing on **JavaScript**.
+<a href="https://github.com/johannes2803"><img src="https://cardivo.vercel.app/api?name=Johannes&description=Hi,%20I'm%20Johannes%20and%20I'm%20just%20a%20newbie%20programmer.%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/5ad7ba96040d0e4ba5cbe.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@johannes28_&github=johannes2803&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
-- 🤗 Follow Account Github on [`@Johannes2803`](https://github.com/Johannes2803/) 
+- 🌱 I’m currently learning **JavaScript**.
+- 👀 I'm focusing on improving my skills in **JavaScript**.
+- 🤗 Follow my GitHub account: [`@Johannes2803`](https://github.com/Johannes2803/).
 
+### Skills and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -23,45 +22,28 @@
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 </p>
 
+### GitHub Stats
 <p align="center">
   <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api?username=Johannes2803&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
+### Top Languages
 <p align="center">
-  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api/top-langs?usernameJohannes2803&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/Johannes2803"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Johannes2803&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
+### GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /><a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Johannes2803&theme=juicyfresh" />
 </p>
 
+### GitHub Streak
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johannes2803" />
 </p>
 
-<p align="center">
-  <a href="https://youtube.com/channel/UC0hs_I8N3JntK5vO6KogavQ"><img src="https://img.shields.io/badge/YouTube-Johannes-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
-  <a name=Johannes&label=VIEWS&style=flat-square&color=orange" />
+### Social Media
 
-</p> 
- #sosial media
+* [`WhatsApp Admin `](https://wa.me/+19294427777)
+* [`My Web`](https://marinkitagawa.site)
 
-
-* [`WhatsApp Admin `](https://wa.me/50370915639)
-                                                  
-* [`My Web`](https://marin.my.id)
-
-<!--
-**Johannes2803/Johannes2830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
