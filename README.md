@@ -2,6 +2,7 @@
 <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px"> </div> <div align="center"> <a href="https://github.com/johannes2803"> <img src="https://cardivo.vercel.app/api?name=Johannes&description=Hi,%20I'm%20Johannes%20and%20I'm%20just%20a%20newbie%20programmer.%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/5ad7ba96040d0e4ba5cbe.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@jhnspntx&github=johannes2803&pattern=leaf&colorPattern=%23eaeaea" alt="Johannes's Card"/> </a> </div> <br>
 
 💫 About Me
+
 🌱 I'm currently learning JavaScript and PHP
 👀 I'm focusing on improving my skills in JavaScript
 🤗 Follow my GitHub account: @Johannes2803
