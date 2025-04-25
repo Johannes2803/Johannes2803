@@ -3,9 +3,13 @@
 💫 About Me
 
 🌱 I'm currently learning JavaScript and PHP
+
 👀 I'm focusing on improving my skills in JavaScript
+
 🤗 Follow my GitHub account: @Johannes2803
+
 🌐 Visit my website: marinkitagawa.site
+
 💬 Contact me on WhatsApp
 <br>
 🛠️ Skills and Tools
